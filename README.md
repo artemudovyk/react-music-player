@@ -1,3 +1,7 @@
+React music player from tutorial by Dev Ed:
+https://developedbyed.com/p/the-creative-react-and-redux-course
+Implemented logic refined and doesn't follow tutorial for 100%.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
